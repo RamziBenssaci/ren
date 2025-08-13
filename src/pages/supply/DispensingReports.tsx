@@ -509,8 +509,8 @@ export default function DispensingReports() {
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">رقم أمر الصرف</th>
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">تاريخ الصرف</th>
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">اسم المنشأة</th>
-                  <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">اسم الصرف</th>
-                  <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">رقم الصرف</th>
+                  <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">اسم الصنف</th>
+                  <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">الكمية</th>
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">عدد الأصناف</th>
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">القيمة الإجمالية</th>
                   <th className="text-right text-xs sm:text-sm whitespace-nowrap border border-gray-200 p-2 font-semibold">اسم المستلم</th>
